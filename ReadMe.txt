@@ -3,11 +3,11 @@ Project Overview:
 
 This project performs sentiment analysis on a large dataset of tweets using Apache Spark. 
 
-We used semi-supervised self learning and machine learning algorithms for initial sentiments classification.
+Used semi-supervised self-learning techniques for initial sentiment classification.
 
-For details of the project, please read report.
+For details of the project, please read the report.
 
-Manual labelled data is present in data/Manual_labelled_data
+Manually labeled data is present in data/Manual_labelled_data
 
 Data for respective scripts.
 
