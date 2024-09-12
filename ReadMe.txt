@@ -12,7 +12,7 @@ Manual labelled data is present in data/Manual_labelled_data
 Data for respective scripts.
 
 1. Model Development Code: BigData_Code_Model
-   Data: data/data_used_for_modelling
+   Data: https://www.kaggle.com/datasets/manchunhui/us-election-2020-tweets
 
 2. Correlation Analysis Code: Correlation_Analysis
    Data: data/data_used_for_correlation
