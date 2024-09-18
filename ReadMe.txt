@@ -5,8 +5,6 @@ This project performs sentiment analysis on a large dataset of tweets using Apac
 
 Used semi-supervised self-learning techniques for initial sentiment classification.
 
-For details of the project, please read the report.
-
 Manually labeled data is present in data/Manual_labelled_data
 
 Data for respective scripts.
